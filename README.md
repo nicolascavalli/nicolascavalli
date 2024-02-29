@@ -10,8 +10,23 @@
   - DAX
 - :dart: Apaixonado pela área de dados, buscando me aprofundar cada vez mais com novos projetos e estudos na área.
 
+### O que estou fazendo?
+  #### No trabalho:
+  - Construção de dashboards via Power BI:
+    - Utilização de DAX, PowerQuery(M)
+    - ETL(Excel, Sharepoint, API's, SQL Server)
+    - CRISP-DM
+    - Kanban
+    - Métricas: KPI's, OKR's, SLA, LeadTime
+  #### Na Formação em Dados
+  - Entrega dos Desafios
+    - Previsão do resultado de um e-commerce utilizando o Power BI(ETL, DAX, Filtros, Gráficos de Barras, Colunas, Linhas, Cartões)
+    - Dashboard com principais indicadores de desempenho de uma empresa de Marketing utilizando o Power BI((ETL, DAX, Filtros, Gráficos de Barras, Colunas, Linhas, Cartões, Mapas)
+    - Geração de plano de ações a partir de análises em SQL(Filtros de datas, Join de Bases de Dados, CTE, Metabase)
+    - Modelo de Regressão Linear para empresa de Marketing(pandas, numpy, matplotlib, seaborn, sklearn.linear_model, sklearn.linear_metrics, Estatística Descritiva e Inferencial)
+    - Preparação de base de dados para uma empresa de e-commerce(Data Cleaning e Data Wrangling - Tratamento de nulos, outliers e duplicadas; merges; correlação; distribuição. Pandas, Numpy, Seaborn, Matplotlib)
 
-
+      
 - Como você pode me encontrar?
 
 
