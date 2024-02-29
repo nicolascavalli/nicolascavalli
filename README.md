@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, githubers 👋
 
-<!--
-**nicolascavalli/nicolascavalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :nerd_face: Formado em Engenharia da Computação
+- :briefcase: Atualmente trabalhando como Assistente Administrativo (Foco em Dados) na ISA CTEEP
+- :book: Me especializando em Ciência de Dados pela Escola DNC
+- :computer: Linguagens de Programação e Ferramentas:
+  - Power BI
+  - Python
+  - SQL
+  - DAX
+- :dart: Apaixonado pela área de dados, buscando me aprofundar cada vez mais com novos projetos e estudos na área.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Como você pode me encontrar?
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nicolas-cavalli-rodrigues-da-silva-5a30a21b2/)
+📫nicolascrs@hotmail.com
