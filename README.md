@@ -27,7 +27,7 @@
     - Preparação de base de dados para uma empresa de e-commerce(Data Cleaning e Data Wrangling - Tratamento de nulos, outliers e duplicadas; merges; correlação; distribuição. Pandas, Numpy, Seaborn, Matplotlib)
 
       
-- Como você pode me encontrar?
+## Como você pode me encontrar?
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nicolas-cavalli-rodrigues-da-silva-5a30a21b2/)
