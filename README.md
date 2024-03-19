@@ -27,7 +27,10 @@
     - Preparação de base de dados para uma empresa de e-commerce(Data Cleaning e Data Wrangling - Tratamento de nulos, outliers e duplicadas; merges; correlação; distribuição. Pandas, Numpy, Seaborn, Matplotlib)
   - Entrega dos Cases:
     - Painel Gerencial E-commerce com Power BI (DAX, gráfico de barras, colunas, cartões) e Figma para UI/UX.
-      
+#### Projetos Kaggle
+  - Predição de doença através de parâmetros de saúde(hemoglobina, colesterol, triglicerídeos)
+    - Conceitos Utilizados: RandomForest, Árvore de Decisão, Regressão Logistíca, EDA, DataCleaning e Feature Engeneering (pandas, sklearn, numpy, matplotlib, seaborn)  
+  
 ## Como você pode me encontrar?
 
 
