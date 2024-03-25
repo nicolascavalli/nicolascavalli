@@ -29,7 +29,9 @@
     - Painel Gerencial E-commerce com Power BI (DAX, gráfico de barras, colunas, cartões) e Figma para UI/UX.
 #### Projetos Kaggle
   - Predição de doença através de parâmetros de saúde(hemoglobina, colesterol, triglicerídeos)
-    - Conceitos Utilizados: RandomForest, Árvore de Decisão, Regressão Logistíca, EDA, DataCleaning e Feature Engeneering (pandas, sklearn, numpy, matplotlib, seaborn)  
+    - Conceitos Utilizados: RandomForest, Árvore de Decisão, Regressão Logistíca, EDA, DataCleaning e Feature Engeneering (pandas, sklearn, numpy, matplotlib, seaborn)
+  - Predição de Churn Empresa de Telefonia
+    - Conceitos e Bibliotecas: Data Cleaning (dropna, dropduplicates, outliers), Data Wrangling (LabelEncoder, StandardScaler), Pandas, Numpy, Matplotlib, Seaborn - LogisticRegression, RandomForest, DecisionTreeClassifier, SVM.
   
 ## Como você pode me encontrar?
 
