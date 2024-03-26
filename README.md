@@ -24,7 +24,8 @@
     - Dashboard com principais indicadores de desempenho de uma empresa de Marketing utilizando o Power BI((ETL, DAX, Filtros, Gráficos de Barras, Colunas, Linhas, Cartões, Mapas)
     - Geração de plano de ações a partir de análises em SQL(Filtros de datas, Join de Bases de Dados, CTE, Metabase)
     - Modelo de Regressão Linear para empresa de Marketing(pandas, numpy, matplotlib, seaborn, sklearn.linear_model, sklearn.linear_metrics, Estatística Descritiva e Inferencial)
-    - Preparação de base de dados para uma empresa de e-commerce(Data Cleaning e Data Wrangling - Tratamento de nulos, outliers e duplicadas; merges; correlação; distribuição. Pandas, Numpy, Seaborn, Matplotlib)
+    - Preparação de base de dados para uma empresa de e-commerce(Data Cleaning e Data Wrangling - Tratamento de nulos, outliers e duplicadas; merges; correlação; distribuição; Pandas; Numpy; Seaborn; Matplotlib).
+    - Predição de Churn para Plataforma de Streaming(pandas, numpy, matplotlib, seaborn, sklearn.linear_model, sklearn.linear_metrics, Estatística Descritiva e Inferencial)
   - Entrega dos Cases:
     - Painel Gerencial E-commerce com Power BI (DAX, gráfico de barras, colunas, cartões) e Figma para UI/UX.
 #### Projetos Kaggle
