@@ -11,7 +11,7 @@
 - :dart: Apaixonado pela área de dados, buscando me aprofundar cada vez mais com novos projetos e estudos na área.
 
 ### O que estou fazendo?
-  #### No trabalho:
+  #### ISA CTEEP:
   - Construção de dashboards via Power BI:
     - Utilização de DAX, PowerQuery(M)
     - ETL(Excel, Sharepoint, API's, SQL Server)
@@ -33,6 +33,11 @@
     - Conceitos Utilizados: RandomForest, Árvore de Decisão, Regressão Logistíca, EDA, DataCleaning e Feature Engeneering (pandas, sklearn, numpy, matplotlib, seaborn)
   - Predição de Churn Empresa de Telefonia
     - Conceitos e Bibliotecas: Data Cleaning (dropna, dropduplicates, outliers), Data Wrangling (LabelEncoder, StandardScaler), Pandas, Numpy, Matplotlib, Seaborn - LogisticRegression, RandomForest, DecisionTreeClassifier, SVM.
+   
+#### Freelancer
+  - Relatório de Acompanhamento de Reclamações (CRISP-DM, Power BI, PowerPoint)
+  - Relatório de Cálculo Hidráulico (Power BI)
+  - Relatório de Acompanhamento de Chamados (CRISP-DM, Power BI, API)
   
 ## Como você pode me encontrar?
 
