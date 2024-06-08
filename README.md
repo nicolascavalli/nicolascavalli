@@ -1,20 +1,20 @@
 ### Olá, githubers 👋
 
 - :nerd_face: Formado em Engenharia da Computação
-- :briefcase: Atualmente trabalhando como Assistente Administrativo (Foco em Dados) na ISA CTEEP
+- :briefcase: Analista de Dados na ISA CTEEP
 - :book: Me especializando em Ciência de Dados pela Escola DNC
 - :computer: Linguagens de Programação e Ferramentas:
   - Power BI
   - Python
   - SQL
-  - DAX
+    
 - :dart: Apaixonado pela área de dados, buscando me aprofundar cada vez mais com novos projetos e estudos na área.
 
 ### O que estou fazendo?
   #### ISA CTEEP:
   - Construção de dashboards via Power BI:
     - Utilização de DAX, PowerQuery(M)
-    - ETL(Excel, Sharepoint, API's, SQL Server)
+    - ETL(Excel, Sharepoint, API's, Python Scripts)
     - CRISP-DM
     - Kanban
     - Métricas: KPI's, OKR's, SLA, LeadTime
@@ -35,9 +35,10 @@
     - Conceitos e Bibliotecas: Data Cleaning (dropna, dropduplicates, outliers), Data Wrangling (LabelEncoder, StandardScaler), Pandas, Numpy, Matplotlib, Seaborn - LogisticRegression, RandomForest, DecisionTreeClassifier, SVM.
    
 #### Freelancer
-  - Relatório de Acompanhamento de Reclamações (CRISP-DM, Power BI, PowerPoint)
-  - Relatório de Cálculo Hidráulico (Power BI)
-  - Relatório de Acompanhamento de Chamados (CRISP-DM, Power BI, API)
+  - Relatório DRE (CRISP-DM, Kanban, Scrum, Power BI) - SG Global Group
+  - Relatório de Acompanhamento de Reclamações (CRISP-DM, Power BI, PowerPoint, Scrum) - CSI Filtros
+  - Relatório de Cálculo Hidráulico (Power BI) - UniFECAF
+  - Relatório de Acompanhamento de Chamados (CRISP-DM, Power BI, API) - Ardo Construtora
   
 ## Como você pode me encontrar?
 
